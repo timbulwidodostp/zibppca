@@ -5,6 +5,8 @@ Principal component analysis for Zero-inflated Bivariate Poisson variables Use z
 
 Prinicipal Component Analysis for Zero-Inflated Bivariate Poisson distributed variables Use zibppca With (In) R Software
 
+https://www.youtube.com/watch?v=7leZsjyfHk4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
